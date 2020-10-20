@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/banking-products-comparator/static/css/main.ed964756.chunk.css",
+    "main.js": "/banking-products-comparator/static/js/main.df230101.chunk.js",
+    "main.js.map": "/banking-products-comparator/static/js/main.df230101.chunk.js.map",
+    "runtime-main.js": "/banking-products-comparator/static/js/runtime-main.ad2c1b2f.js",
+    "runtime-main.js.map": "/banking-products-comparator/static/js/runtime-main.ad2c1b2f.js.map",
+    "static/js/2.c7015575.chunk.js": "/banking-products-comparator/static/js/2.c7015575.chunk.js",
+    "static/js/2.c7015575.chunk.js.map": "/banking-products-comparator/static/js/2.c7015575.chunk.js.map",
+    "index.html": "/banking-products-comparator/index.html",
+    "precache-manifest.0593309924f79268967e2846a9633224.js": "/banking-products-comparator/precache-manifest.0593309924f79268967e2846a9633224.js",
+    "service-worker.js": "/banking-products-comparator/service-worker.js",
+    "static/css/main.ed964756.chunk.css.map": "/banking-products-comparator/static/css/main.ed964756.chunk.css.map",
+    "static/js/2.c7015575.chunk.js.LICENSE.txt": "/banking-products-comparator/static/js/2.c7015575.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad2c1b2f.js",
+    "static/js/2.c7015575.chunk.js",
+    "static/css/main.ed964756.chunk.css",
+    "static/js/main.df230101.chunk.js"
+  ]
+}
